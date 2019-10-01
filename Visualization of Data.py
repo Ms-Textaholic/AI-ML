@@ -2,12 +2,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-
-
 plt.plot([1,2,3,4],[2,4,6,8])
 plt.ylabel('numbers')
 plt.show()
-
 
 
 plt.plot([1,2,3,4],[10,15,35,70])
