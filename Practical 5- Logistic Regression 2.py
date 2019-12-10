@@ -8,7 +8,7 @@
 
 import pandas as pd
 
-data = pd.read_csv('People Charm case.csv')
+data = pd.read_csv('people.csv')
 
 import numpy as np
 import seaborn as sns
